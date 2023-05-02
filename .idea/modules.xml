@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../doType/.idea/doType.iml" filepath="$PROJECT_DIR$/../doType/.idea/doType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yap_yetanotherportfolio.iml" filepath="$PROJECT_DIR$/.idea/yap_yetanotherportfolio.iml" />
+    </modules>
+  </component>
+</project>
