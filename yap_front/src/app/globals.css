@@ -109,3 +109,95 @@ a {
     color-scheme: dark;
   }
 }
+
+.home-icon {
+  background-image: url('/yap_front/src/assets/icons/fav-folder-dynamic-gradient.png');
+}
+
+.user-icon {
+  background-image: url('/yap_front/src/assets/icons/at-dynamic-gradient.png');
+}
+
+.briefcase-icon {
+  background-image: url('/yap_front/src/assets/icons/briefcase-dynamic-gradient.png');
+}
+
+.envelope-icon {
+  background-image: url('/yap_front/src/assets/icons/mail-dynamic-gradient.png');
+}
+
+.calculator-icon {
+  background-image: url('/yap_front/src/assets/icons/phone-dynamic-gradient.png');
+}
+
+.github-icon {
+  background-image: url('/yap_front/src/assets/icons/github-dynamic-gradient.png');
+}
+
+.linkedin-icon {
+  background-image: url('/yap_front/src/assets/icons/linkedin-dynamic-gradient.png');
+}
+
+.twitter-icon {
+  background-image: url('/yap_front/src/assets/icons/twitter-dynamic-gradient.png');
+}
+
+.instagram-icon {
+  background-image: url('/yap_front/src/assets/icons/instagram-dynamic-gradient.png');
+}
+
+.facebook-icon {
+  background-image: url('/yap_front/src/assets/icons/facebook-dynamic-gradient.png');
+}
+
+.youtube-icon {
+  background-image: url('/yap_front/src/assets/icons/youtube-dynamic-gradient.png');
+}
+
+.computer-icon {
+  background-image: url('/yap_front/src/assets/icons/computer-dynamic-gradient.png');
+}
+
+.phone-icon {
+  background-image: url('/yap_front/src/assets/icons/phone-dynamic-gradient.png');
+}
+
+.tablet-icon {
+  background-image: url('/yap_front/src/assets/icons/tablet-dynamic-gradient.png');
+}
+
+.paint-brush-icon {
+  background-image: url('/yap_front/src/assets/icons/paint-brush-dynamic-gradient.png');
+}
+
+.code-icon {
+  background-image: url('/yap_front/src/assets/icons/code-dynamic-gradient.png');
+}
+
+.terminal-icon {
+  background-image: url('/yap_front/src/assets/icons/terminal-dynamic-gradient.png');
+}
+
+.hash-icon {
+  background-image: url('/yap_front/src/assets/icons/hash-dynamic-gradient.png');
+}
+
+.picture-icon {
+  background-image: url('/yap_front/src/assets/icons/picture-dynamic-gradient.png');
+}
+
+.play-icon {
+  background-image: url('/yap_front/src/assets/icons/play-dynamic-gradient.png');
+}
+
+.dollar-icon {
+  background-image: url('/yap_front/src/assets/icons/dollar-dynamic-gradient.png');
+}
+
+.euro-icon {
+  background-image: url('/yap_front/src/assets/icons/euro-dynamic-gradient.png');
+}
+
+.puzzle-icon {
+  background-image: url('/yap_front/src/assets/icons/puzzle-dynamic-gradient.png');
+}

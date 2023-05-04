@@ -1,8 +1,8 @@
-"use client";
+
 
 import React, { useState, useEffect } from 'react';
 import './Particule.css';
-const Particle = ({ size }) => {
+export const Particle = ({ size }) => {
   const [position, setPosition] = useState({
     top: Math.random() * window.innerHeight,
     left: Math.random() * window.innerWidth,
@@ -41,7 +41,7 @@ const Particle = ({ size }) => {
   );
 };
 
-const Particule = () => {
+export const Particule = () => {
   const [particles, setParticles] = useState([]);
 
   const createParticles = () => {
@@ -84,5 +84,5 @@ const Particule = () => {
   return <>{particles}</>;
 };
 
-export default Particule;
+// export  Particule;
 

@@ -1,2 +1,4 @@
+import {Particule} from './Particule';
 
-export {default} from './Particule.client';
+
+export {Particule};

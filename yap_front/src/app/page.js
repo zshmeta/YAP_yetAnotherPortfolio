@@ -1,9 +1,9 @@
 import Image from 'next/image'
 import styles from './page.module.css'
-import PetitZshmeta from "@/app/components/PetitZshmeta";
-import Particule from "@/app/components/Particule";
+import {PetitZshmeta} from "@/app/components/PetitZshmeta";
+import { Particule } from "@/app/components/Particule";
 import Snowflakes from "@/app/components/Snowflakes";
-import Footer from "@/app/components/Footer";
+import Footer from "@/app/layouts/Footer";
 
 
 

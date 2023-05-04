@@ -2,5 +2,38 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/OS.js-xterm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/os.js-gba-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-calculator-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-database-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-database-settings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-dialogs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-draw-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-event-emitter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-example-iframe-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-example-provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-gapi-provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-gnome-icons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-gui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-installers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-musicplayer-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-nes-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-panels" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-preview-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-proc-provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-standard-dark-theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-terminal-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-tetris-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-textpad-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-vnc-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-webdav-adapter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-widgets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-windows8-theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-wolfenstein3d-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-writer-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yap_pkgs/osjs-xterm-application" vcs="Git" />
   </component>
 </project>

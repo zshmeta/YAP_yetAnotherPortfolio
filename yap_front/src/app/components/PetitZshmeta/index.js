@@ -1,3 +1,3 @@
-import {PetitZshmeta} from "@/app/components/PetitZshmeta/PetitZshmeta";
+import {PetitZshmeta} from './PetitZshmeta';
 
-export default PetitZshmeta
+export default PetitZshmeta;

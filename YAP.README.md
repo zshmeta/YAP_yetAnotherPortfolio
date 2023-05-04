@@ -72,3 +72,27 @@ Next and/or Express are in their own enough in order to build full stack apps. N
 
 In the following sections, I will provide more details about each part of the portfolio project.
 
+```typescript
+Mouse Follow
+
+export function useMousePosition(): MousePosition {
+	const [mousePosition, setMousePosition] = useState<MousePosition>({
+		x: 0,
+		y: 0,
+	});
+
+	useEffect(() => {
+		const handleMouseMove = (event: MouseEvent) => {
+			setMousePosition({ x: event.clientX, y: event.clientY });
+		};
+
+		window.addEventListener("mousemove", handleMouseMove);
+
+		return () => {
+			window.removeEventListener("mousemove", handleMouseMove);
+		};
+	}, []);
+
+	return mousePosition;
+}
+```

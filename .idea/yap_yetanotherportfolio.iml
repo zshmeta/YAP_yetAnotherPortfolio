@@ -9,5 +9,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="doType" />
+    <orderEntry type="module" module-name="yap_front_oldNext" />
+    <orderEntry type="module" module-name="untitled" />
   </component>
 </module>

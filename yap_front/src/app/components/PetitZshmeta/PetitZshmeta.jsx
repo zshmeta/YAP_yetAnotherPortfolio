@@ -1,5 +1,5 @@
 import React from "react";
-import "./PetitZshmeta.css";
+import "./PetitZshmeta.scss";
 export const PetitZshmeta = () => {
     return (
         <>
@@ -25,4 +25,3 @@ export const PetitZshmeta = () => {
         </>
     )
 }
-
